@@ -2,6 +2,12 @@
 -----
 
 # MerceariaBere - Sistema de Gestão para Mercearia em C
+<img width="1269" height="700" alt="image" src="https://github.com/user-attachments/assets/9be02c47-5dae-49e9-8141-c05901c01f9f" />
+<img width="1200" height="609" alt="image" src="https://github.com/user-attachments/assets/889317e3-ff3a-4664-ba11-965fe4c7ddda" />
+<img width="1196" height="616" alt="image" src="https://github.com/user-attachments/assets/9e83f21a-a15d-46b5-82c5-42ea900dd5aa" />
+<img width="1566" height="709" alt="image" src="https://github.com/user-attachments/assets/413b4a8d-7e68-4e72-9399-d32208bea0ca" />
+<img width="1581" height="351" alt="image" src="https://github.com/user-attachments/assets/b6700db0-4a82-454b-bbf5-cde3d047dcd4" />
+
 
 ## Tabela de Conteúdos
 
